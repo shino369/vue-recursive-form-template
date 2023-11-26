@@ -1,5 +1,7 @@
 # Vue.js Recursive Form Section
-Simple project showcase of recursively generate form section
+Simple project showcase of recursively generated form section with i18n
+
+<a href="https://shino369.github.io/vue-recursive-form-template/">preview in github page</a>
 
 ## Project Depedencies
 - router:
