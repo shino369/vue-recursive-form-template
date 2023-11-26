@@ -25,7 +25,7 @@ export default ({ mode }: { mode: 'development' | 'production' }) => {
     // build: { // build config no need to set too many I guess
 
     // },
-    base: '/tms/onlineResv',
+    base: '/vue-recursive-form-template/',
     server: {
       port: 3000,
       proxy: {

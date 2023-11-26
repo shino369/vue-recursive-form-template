@@ -9,6 +9,7 @@
       "@/*": ["./src/*"],
       // "vee-validate": ["./node_modules/vee-validate/dist/vee-validate"]
     },
+    "moduleResolution": "node",
     // "preserveSymlinks": true
   }
 }
