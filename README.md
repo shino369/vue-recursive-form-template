@@ -1,5 +1,5 @@
 # Vue.js Recursive Form Section
-Simple project showcase of recursively generate foem section
+Simple project showcase of recursively generate form section
 
 ## Project Depedencies
 
