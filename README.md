@@ -2,34 +2,23 @@
 Simple project showcase of recursively generate form section
 
 ## Project Depedencies
-
-### Required lib
 - router:
   - [x] vue router
 - store:
   - [x] pinia
-    - localforage plugin? (need storage? any data to persist?)
-    - initial data size by getOnlineReservationInitSetting ~ 35kb
 - API: 
   - [x] axios
-  - [ ] swrv? (cache, revalidate)
   - [x] usefetch in vueuse
 - form control:
   - [x] vee-Validate
-  - [ ] vue-validate
 - utils functions:
   - [x] moment
   - [x] lodash
-  - [x] vueuse (a powerful lib with a lot of well-maintained vue hook)
-	- has a useFetch hook, can replace axios?
+  - [x] vueuse
 - translation:
   - [x] vue-i18n (v9)
-
 - UI Lib
   - [x] tailwindcss
-  - [ ]  element plus?
-  - [ ]  ant design?
-
 - css
   - [x] postcss (tailwind)
 
